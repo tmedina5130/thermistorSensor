@@ -1,2 +1,2 @@
 # thermistorSensor
-Read analog inputs from thermistor sensors and output digital signal to LEDs
+Read analog inputs from 5 thermistor sensors and output digital signal to 5 RGB LEDS.
